@@ -15,3 +15,7 @@ main.py is used to trigger the whole process.
 
 code_sample_1.py: autocorrelation function calculations
 code_sample_2.py: Analysis of amino acid colocalization (e.g., triad, tetrad, pentad, etc)
+
+
+Please note:
+Forcefield files and parameter files for simulations are not included here.
